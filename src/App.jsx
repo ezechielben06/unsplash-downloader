@@ -28,7 +28,7 @@ const UnsplashDownloader = () => {
   const [imageSeed, setImageSeed] = useState(Date.now()); // Nouvel état pour forcer le rechargement
 
   // Remplacez cette clé par votre propre clé API Unsplash
-  const ACCESS_KEY = "YOURKEY_UNSPLASH_ACCESS_";
+  const ACCESS_KEY = "YsVTR-GNe0wJEtIwx8VUxBh_xXJqPQ1CNgL3aN9dELe4";
 
   // truekey = "sVTR-GNe0wJEtIwx8VUxBh_xXJqPQ1CNgL3aN9dELe4";
 
